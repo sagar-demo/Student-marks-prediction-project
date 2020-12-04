@@ -1,0 +1,17 @@
+body{
+    background-image: url("/statics/study8.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+/*css code for button */
+.button_css{
+    color: #494949 !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #ffffff;
+}
